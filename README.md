@@ -1,84 +1,74 @@
 <h1 align="center">Nagendran Sanjeevan</h1>
 
 <p align="center">
-  <b>Machine Learning Enthusiast | AI-Focused Undergraduate</b><br>
-  University of Vavuniya
+  Machine Learning Enthusiast • AI-Focused Undergraduate  
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/Sanjeewa3060">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
----
-
-### 🧠 Professional Summary
-Aspiring Machine Learning Engineer with a strong foundation in programming and problem-solving.  
-Passionate about leveraging data to build intelligent systems and solve real-world problems.  
-Actively developing expertise in AI, data analysis, and software development.
-
----
-
-### 🎯 Career Focus
-- Machine Learning Engineering  
-- AI-Based Solutions  
-- Data-Driven Application Development  
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,figma,vscode" />
-</p>
-
----
-
-### 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjeewa3060&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeewa3060&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  University of Vavuniya  
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanjeewa3060&theme=tokyonight&hide_border=true" />
+  <a href="mailto:your-email@example.com">Email</a> •
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
+  <a href="https://github.com/Sanjeewa3060">GitHub</a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
-🔹 **AI Mini Projects** – Practical implementations of ML concepts  
-🔹 **Data Analysis Projects** – Insights using Python & datasets  
-🔹 **Web Development Projects** – Responsive and functional apps  
+### Profile
+Aspiring Machine Learning Engineer with a strong interest in building intelligent systems using data.  
+Currently developing skills in Python, data analysis, and machine learning fundamentals.
 
 ---
 
-### 🏆 Leadership & Experience
-- Vice Chair – IEEE Computer Society, University of Vavuniya  
-- Public Relations Director – ZeroPlastic Vavuniya Community  
+### Focus Areas
+- Machine Learning  
+- Data Analysis  
+- Backend / Full Stack Development  
 
 ---
 
-### 📚 Currently Learning
-- Machine Learning Algorithms  
-- Data Structures & Algorithms  
+### Technical Skills
+**Languages:** Python, Java  
+**Tools:** Git, GitHub, Figma, Excel  
+**Concepts:** Data Structures, Problem Solving  
+
+---
+
+### Projects
+- AI-Based Mini Projects *(in progress)*  
+- Data Analysis Projects *(in progress)*  
+- Web Applications *(planned)*  
+
+---
+
+### Experience
+- Vice Chair — IEEE Computer Society, University of Vavuniya  
+- Public Relations Director — ZeroPlastic Vavuniya Community  
+
+---
+
+### GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjeewa3060&show_icons=true&hide_border=true" height="150"/>
+</p>
+
+---
+
+### Current Learning
+- Machine Learning  
 - Mathematics for AI  
+- Advanced Python  
 
 ---
 
-### 📌 Vision
-To become a highly skilled Machine Learning Engineer and contribute to impactful AI-driven innovations.
+### Contact
+Email: your-email@example.com  
+LinkedIn: https://linkedin.com/in/yourprofile  
 
 ---
 
 <p align="center">
-  <b>“Consistency and discipline build expertise.”</b>
+  <i>Focused on building real-world solutions through AI.</i>
 </p>
